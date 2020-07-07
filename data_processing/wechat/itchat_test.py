@@ -19,6 +19,7 @@ if __name__ == '__main__':
         #     f.write(str(friend))
         # if str(friend['Sex']) is '1':
         #     sex =
-        print({'NickName': friend['NickName'],  'RemarkName': friend['RemarkName'], 'Sex': friend['Sex'], 'Signature': friend['Signature'], 'AttrStatus': friend['AttrStatus'], 'Province': friend['Province'], 'City': friend['City']})
+        print(friend)
+        # print({'NickName': friend['NickName'],  'RemarkName': friend['RemarkName'], 'Sex': friend['Sex'], 'Signature': friend['Signature'], 'AttrStatus': friend['AttrStatus'], 'Province': friend['Province'], 'City': friend['City']})
     itchat.run()
 # a = {'NickName': '丸子',  'RemarkName': '', 'Sex': 1, 'Signature': '足够勇敢，才会成功', 'AttrStatus': 16786425, 'Province': '广东', 'City': '广州'}
