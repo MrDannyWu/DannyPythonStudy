@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd465fc-e87c-4fff-a5c2-fd156d7f6e22" name="Default Changelist" comment="项目调整">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_base/lamda_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_base/thread_eg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_base/thread_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_base/wrapper_study.py" afterDir="false" />
+    <list default="true" id="5dd465fc-e87c-4fff-a5c2-fd156d7f6e22" name="Default Changelist" comment="添加gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/DannyPythonStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DannyPythonStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_base/1024.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_base/1024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_base/do_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_base/do_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_base/lamda_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_base/lamda_study.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +48,10 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/python_base" />
@@ -43,7 +61,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,6 +192,10 @@
       <workItem from="1595834931370" duration="6000" />
       <workItem from="1595835389201" duration="1238000" />
       <workItem from="1596099052426" duration="26900000" />
+      <workItem from="1596210666297" duration="370000" />
+      <workItem from="1596211048859" duration="91000" />
+      <workItem from="1596291861063" duration="3761000" />
+      <workItem from="1596350530647" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="项目调整">
       <created>1594119562525</created>
@@ -182,11 +204,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594119562525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加gitignore">
+      <created>1596210923267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596210923268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -198,10 +227,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目调整" />
+    <MESSAGE value="添加gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596174461120">
@@ -233,14 +264,16 @@
     </state>
     <state width="1860" height="272" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1596163320452" />
     <state width="1860" height="349" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596184431517" />
-    <state x="0" y="335" key="SettingsEditor" timestamp="1594117289202">
+    <state x="776" y="158" key="SettingsEditor" timestamp="1596352045617">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="335" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594117289202" />
-    <state x="552" y="187" key="Vcs.Push.Dialog.v2" timestamp="1594119571405">
+    <state x="776" y="158" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1596352045617" />
+    <state x="552" y="187" key="Vcs.Push.Dialog.v2" timestamp="1596210942166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594119571405" />
+    <state x="552" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1596210942166" />
     <state x="2515" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1596167371088">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>

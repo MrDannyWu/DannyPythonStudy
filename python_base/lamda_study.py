@@ -11,20 +11,19 @@
 -------------------------------------------------
 """
 
-
-add = lambda x, y :\
+add = lambda x, y: \
     x + y
 print(add(1, 1))
 
-sq = lambda x : x * x
+sq = lambda x: x * x
 
 res = map(sq, [i for i in range(100)])
 print(res)
 for j in res:
     print(j)
 
-class Lamb(object):
 
+class Lamb(object):
     res = lambda self, x: x
 
 
